@@ -217,7 +217,7 @@ int main() {
 	}
 	cout << "DONE." << endl;
 
-	cout << "Displaying all books:" << endl;
+	cout << "Displaying all students:" << endl;
 	classRoster->printAll();
 	classRoster->printInvalidEmails();
 
